@@ -1,0 +1,19 @@
+.product {
+	text-align: center;
+	border: 0.1vw solid red;
+	border-radius: 0.5vw 25vw;
+	margin: 2vh 10vw;
+	padding-bottom: 2vh;
+	background-color: lightpink;
+	font-size: 5vw;
+	box-shadow: 1vw 1vw 3vw red;
+	line-height: 1vh;
+}
+.product > button {
+	border-radius: 2vw;
+	background: blue;
+	color: white;
+	padding: 0.5vh 3vw;
+	font-size: 3vw;
+	box-shadow: 0.5vw 0.5vw 1.5vw blue;
+}
